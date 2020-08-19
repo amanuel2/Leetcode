@@ -1,7 +1,7 @@
 class Solution {
-    //low=1,high=0
-    //["dog","racecar","car"]
-   public String longestCommonPrefix(String[] strs) {
+    // low=1,high=0
+    // ["dog","racecar","car"]
+    public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0)
             return "";
         int minLen = Integer.MAX_VALUE;
@@ -19,8 +19,8 @@ class Solution {
         return strs[0].substring(0, (low + high) / 2);
     }
 
-    private boolean isCommonPrefix(String[] strs, int len){
-        String str1 = strs[0].substring(0,len);
+    private boolean isCommonPrefix(String[] strs, int len) {
+        String str1 = strs[0].substring(0, len);
         for (int i = 1; i < strs.length; i++)
             if (!strs[i].startsWith(str1))
                 return false;
