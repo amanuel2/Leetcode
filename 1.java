@@ -1,4 +1,6 @@
-
+//[1,4,6,7,8]
+// 1 4 6 7,YES => go to map return index 2(4) + index of curr;
+//Map [1:1, 2:4, 3:6, 4:7]
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap();

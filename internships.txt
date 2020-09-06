@@ -1,11 +1,11 @@
 																		Companies Applied To
 																		--------------------
-
+   Name              status             positions                       Link
+------------  ---------     ---------------------  --------------------------------------
 Apple - Pending
-	Applying to 4 intern positions
-		Software Engineering Internship
-		Machine Learning / AI Internship
-		Machine Learning / AI - Engineering & Research Internship
+	Software Engineering Internship
+	Machine Learning / AI Internship
+	Machine Learning / AI - Engineering & Research Internship
 
 Google - Pending
 	Software Engineering Intern, AS, BS, MS, 2021
@@ -14,7 +14,7 @@ Google - Pending
 Amazon - Pending                               
 	Software Development Engineer Internship - Summer 2021 (US)
 		https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC
-		
+
 Amazon Web Services - Pending
 	2021 Summer Software Development Engineer Intern (WAS)
 		https://www.amazon.jobs/en/jobs/1247291/2021-summer-software-development-engineer-intern-was
@@ -67,13 +67,24 @@ IBM - Pending
 	Front End Developer Summer Intern: 2021
 		https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en
 
+MongoDB - Pending
+	Software Engineering Intern
+		https://www.mongodb.com/careers/jobs/2309781?t=ircv7l
+
+Duolingo - Pending
+	Software Engineer, Intern
+		https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=PittCSC
 
 Qualcomm - Pending
 	IT Internship - Summer 2021
 		https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435
 
+Master Card - Pending
+	Software Development Engineer Intern (Summer 2021)
+		https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC
 
-Walmart(LOL) - Pending
+
+Walmart(LOL) - Pending 
 	Summer 2021 Tech Internship
 		https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship
 
@@ -82,3 +93,26 @@ Epic Games - Pending
 	Epic Games Programming Internships
 		https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2
 
+MagView - Pending
+	Software Developer Intern
+		https://umd-csm.symplicity.com/students/app/jobs/detail/ea383f5cc7de82dc6586d13af3f94273#jobact.apply=1
+
+Repl.it - Pending
+	Fullstack Internship 2020
+		https://jst.me/c6ze
+
+Celo - Pending
+	Intern Software Engineer (Fall/Winter 2020)
+		https://citi.avature.net/careers/ProjectDetail/Mississauga-Ontario-Canada-NAM-ICG-Technology-Summer-Production-Support-Analyst-Mississauga-2021-/11859
+
+Shopify - Pending
+	Developer Internships & Data Science Internships - Winter 2021
+		https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb
+
+Coakroach Labs - Pending
+	Software Engineering Intern - Winter 2021
+		https://www.cockroachlabs.com/careers/job/?gh_jid=2317781
+
+Etsy - Pending
+	Software Engineering Internship, Summer 2021
+		https://www.etsy.com/careers/job/743999718641018
