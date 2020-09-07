@@ -36,3 +36,4 @@ Celo							Pending
 Shopify							Pending
 Coakroach Labs					Pending
 Etsy							Pending
+Yext							Pending 
