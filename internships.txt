@@ -1,122 +1,162 @@
 																		Companies Applied To
 																		--------------------
    Name              status             positions                       Link
-------------  ---------     ---------------------  --------------------------------------
-Apple - Pending
+------------       ----------     ---------------------  --------------------------------------
+Apple 
 	Software Engineering Internship
 	Machine Learning / AI Internship
 	Machine Learning / AI - Engineering & Research Internship
 
-Google - Pending
+Google 
 	Software Engineering Intern, AS, BS, MS, 2021
 		Website Offline
 
-Amazon - Pending                               
+Amazon                                
 	Software Development Engineer Internship - Summer 2021 (US)
 		https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC
 
-Amazon Web Services - Pending
+Amazon Web Services 
 	2021 Summer Software Development Engineer Intern (WAS)
 		https://www.amazon.jobs/en/jobs/1247291/2021-summer-software-development-engineer-intern-was
 
+Facebook 
+	Software Engineer, Intern/Co-op
+	https://www.facebook.com/careers/jobs/654496918442526/
 
-Microsoft- Pending							   
+Microsoft							   
 	Internship Opportunities for Students - Software Engineer
 		https://careers.microsoft.com/us/en/job/870957/Internship-Opportunities-for-Students-Software-Engineer
 		Job number: 870957
 
-Facebook - Pending
-	Software Engineer, Intern/Co-op
-	https://www.facebook.com/careers/jobs/654496918442526/
+Oracle 
+	Software Engineer Intern – Applications Development
+		https://oracle.taleo.net/careersection/3/jobdetail.ftl?job=20000POC
 
-
-Telsa  - Pending
+Telsa  
 	Software - Full Stack Engineering Internship (Spring 2021 and/or Summer 2021)
 		https://www.tesla.com/careers/job/software-fullstackengineeringinternshipspringand-orsummer2021-68849
 
 
-Paypal - Pending
+Paypal 
 	Software Engineer Internship
 		https://jobsearch.paypal-corp.com/en-US/job/software-engineer-intern/J3P35C6HJBQTHSL1DFH
 
 
-Twitch - Pending
+Twitch 
 	Engineering Intern (Seattle, WA | Irvine, CA | San Francisco, CA)
 		https://boards.greenhouse.io/twitch/jobs/4827849002?gh_src=PittCSC
 
 
-Nvidia - Pending
+Nvidia 
 	Software Engineering Intern, Developer Tools - Summer 2021
 		https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-Engineering-Intern--Developer-Tools---Summer-2021_JR1933363-1?source=jobboardlinkedin
 
 
-PlayStation - Pending
+PlayStation 
 	Software Engineering Intern
 		https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2316927/?t=b8y5ha
 
+Uber
+	2021 Software Engineer Internship
+		https://www.uber.com/global/en/careers/list/62848/
 
-Dropbox - Pending
+Dropbox 
 	Software Engineering Intern (Summer 2021)
 		https://www.dropbox.com/jobs/listing/2265990?gh_jid=2265990
 
-Cisco - Pending
+Cisco 
 	Software Engineer - Bachelor's (Intern) - United States
 		https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs
 
-IBM - Pending
+IBM 
 	Front End Developer Summer Intern: 2021
 		https://careers.ibm.com/ShowJob/Id/961831/Front-End-Developer-Summer-Intern-2021/?lang=en
 
-MongoDB - Pending
+MongoDB 
 	Software Engineering Intern
 		https://www.mongodb.com/careers/jobs/2309781?t=ircv7l
 
-Duolingo - Pending
+SquareSpace
+	Software Engineer Intern - Summer 2021
+		https://www.squarespace.com/careers/jobs/2329528
+
+Duolingo 
 	Software Engineer, Intern
 		https://boards.greenhouse.io/duolingo/jobs/4811990002?gh_src=PittCSC
 
-Qualcomm - Pending
+Qualcomm 
 	IT Internship - Summer 2021
 		https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego/IT-Internship---Summer-2021_3001435
 
-Master Card - Pending
+Master Card 
 	Software Development Engineer Intern (Summer 2021)
 		https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Software-Development-Engineer-Intern--Summer-2021-_R-111190?source=PittCSC
 
 
-Walmart(LOL) - Pending 
+Walmart(LOL)  
 	Summer 2021 Tech Internship
 		https://careers.walmart.com/us/jobs/WD298108-summer-2021-tech-internship
 
 
-Epic Games - Pending
+Epic Games 
 	Epic Games Programming Internships
 		https://epicgames.wd5.myworkdayjobs.com/en-US/Epic_Games/job/Cary-NC/Epic-Games-Programming-Internships_R2792-2
 
-MagView - Pending
+CoinBase
+	Winter / Spring 2021 Internship - Software Engineer (Remote)
+		https://www.coinbase.com/careers/positions/1724656
+
+
+
+MagView
 	Software Developer Intern
 		https://umd-csm.symplicity.com/students/app/jobs/detail/ea383f5cc7de82dc6586d13af3f94273#jobact.apply=1
 
-Repl.it - Pending
+Repl.it
 	Fullstack Internship 2020
 		https://jst.me/c6ze
 
-Celo - Pending
+Celo 
 	Intern Software Engineer (Fall/Winter 2020)
 		https://citi.avature.net/careers/ProjectDetail/Mississauga-Ontario-Canada-NAM-ICG-Technology-Summer-Production-Support-Analyst-Mississauga-2021-/11859
 
-Shopify - Pending
+Shopify 
 	Developer Internships & Data Science Internships - Winter 2021
 		https://www.shopify.com/careers/developer-internships-data-science-internships-winter-2021-826aeb
 
-Coakroach Labs - Pending
+Coakroach Labs 
 	Software Engineering Intern - Winter 2021
 		https://www.cockroachlabs.com/careers/job/?gh_jid=2317781
 
-Yext - Pending
+Yext 
 	2021 Software Engineer Summer Intern
 		https://boards.greenhouse.io/yext/jobs/2291674
 
-Etsy - Pending
+Stripe
+	Software Engineering Intern, Summer
+		https://stripe.com/jobs/listing/2021-software-engineering-intern/2162713?gh_src=73vnei
+		
+Etsy 
 	Software Engineering Internship, Summer 2021
 		https://www.etsy.com/careers/job/743999718641018
+
+Bubble
+	Software Engineer Intern
+		https://boards.greenhouse.io/bubble/jobs/4806477002?gh_src=e68b79e92us
+
+CareerUp
+	Remote Engineering Internship
+		Via LinkedIn Easy Apply
+
+Paetron
+	Software Engineer - Intern (Summer 2021)
+		https://boards.greenhouse.io/patreon/jobs/2294211?s=LinkedIn&source=LinkedIn
+
+
+Alion Science and Technology
+	Intern Programmer
+		https://jobs.alionscience.com/job/position/J3S2WW6P60LX1WR8MSD?utm_medium=email&SiteID=TNALERT_Weekly&utm_source=tn-job-recommendations&utm_campaign=member-scheduled-job-recs&documentId=J3S2WW6P60LX1WR8MSD	
+
+Sage Corps
+	Intern Developer
+			https://u6728754.ct.sendgrid.net/ls/click?upn=RUs5l4XTZoj1KRNetbPsQDfXGLiTBnw81b4BybPodWA0kpJnGbaIA6gtEp6TS-2BqLcvaNJZjoQXoCvq4EpXNzTdQKSRcj1yKPqm4fX2oXIuyt4oDXTiKsqJ17iQu-2FkGIQrFBneu8U-2Bn35mfBPUvXegfKj6y5vaUI-2BaYC-2Bx5wWiCg1TWVmdyJF2cGzA9RCnjsRK7Lks6oTWhBJFC-2Fr6xbBwA-3D-3DbmfM_1-2BxEw05S7OwWW74W-2ByGR1QsRDynCsxelfeiBldiSyoIx3rYq8QXXEUYRu-2F9dXfo56z3snlSWCVp7i-2F0HtdVIri2-2ByxBsCmy6dQ0d3NY-2BSyYij6bYip-2Fxr-2FR94CTY-2FwIcEno9XEdRI9eZiiFk0uAKxN0VYoPSEH9Ytj0wLFiTcCyDJOnpYJZXTi-2B3lUmcbZi7ORwWv5VcxxzfNoe18pydxIXGLynmt2gHGb6Gj-2BLScoVhrS8rb-2BP5A-2FzwNJGbutsSzijUg9yA63N-2BkxOCU6CWm2hUJHW8u1iwL4xbSJYLb3U-3D

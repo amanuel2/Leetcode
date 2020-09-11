@@ -5,8 +5,10 @@
 GUIDELINES:
 	PENDING = _______
 	TESTING = #FFD700
+	WAITING = #C947F5
 	OFFERED = #add8e6 
 	HIRED   = #228B22
+	DECLINE = #FF0000
 
    Name              			Status
 ----------- 					--------
@@ -22,7 +24,7 @@ Twitch							Pending
 Nvidia							Pending
 Playstation						Pending
 DropBox							Pending
-Cisco							TESTING #FFD700
+Cisco							WAITING #C947F5
 IBM								TESTING #FFD700
 MongoDB							Pending
 Duolingo						Pending
@@ -37,3 +39,11 @@ Shopify							Pending
 Coakroach Labs					Pending
 Etsy							Pending
 Yext							Pending 
+CoinBase						Pending
+Bubble							Pending
+CareerUp						Pending
+Paetron							Pending
+Sage Corps						Pending
+Stripe							Pending
+SquareSpace						Pending
+Uber							Pending
