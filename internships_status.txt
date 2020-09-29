@@ -6,11 +6,12 @@ GUIDELINES:
 	PENDING = _______
 	TESTING = #FFD700
 	WAITING = #C947F5
-	OFFERED = #add8e6 
+	IN-VIEW = #FFA500 (Interview)
+	OFFERED = #ADD8E6 
 	HIRED   = #228B22
 	DECLINE = #FF0000
 
-   Name              			Status
+   Name              			 Status
 ----------- 					--------
 Apple							Pending
 Google			    			Pending
@@ -21,12 +22,11 @@ Facebook						Pending
 Oracle							Pending
 Telsa							Pending
 Spotify							Pending
-Paypal							Pending
-Twitch							Pending
+ 
 Nvidia							Pending
 Playstation						Pending
 DropBox							Pending
-Cisco							WAITING #C947F5
+Cisco							IN-VIEW #FFA500
 IBM								WAITING #C947F5
 MongoDB							Pending
 Duolingo						Pending
@@ -45,11 +45,23 @@ CoinBase						Pending #FF0000
 Bubble							Pending
 CareerUp						Pending
 Paetron							Pending
-Sage Corps						DECLINE #add8e6 -> #FF0000 (I Declined)
-Stripe							TESTING #FFD700
-SquareSpace						Pending
+Sage Corps						DECLINE #ADD8E6 -> #FF0000 (I Declined)
+Stripe							WAITING #FF0000 
+SquareSpace						TESTING #FFD700
 Uber							Pending
 Collins Aerospace				Pending
 Rubrik 							Pending
 Slack							Pending
 Indeed							Pending
+Informatica						Pending
+Sezzle							Pending
+Target							WAITING #C947F5
+MathWorks						TESTING #FFD700
+Better							Pending
+Roblox							Pending
+PagerDuty						Pending
+Kebs							Pending
+HelBiz							Pending
+
+Verizon						(Apply in Late October/ Early Novemeber)
+NIST						(Apply In January)

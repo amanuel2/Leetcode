@@ -1,33 +1,31 @@
 class Solution {
+    
+    //Idea is to sort the strings
+    //to group the anograms
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> opt = new ArrayList();
+        Map<String, List<String>>  map = new HashMap();
         
-        Map<String, List<String>> map = new HashMap();
-        
-        for(int i=0; i<strs.length; i++){
-            String sorted = sortStr(strs[i]);
-            if(!map.containsKey(sorted)){
-                map.put(sorted, new ArrayList());
-            }
+        //loop through each string
+        for(String str: strs){
+            String sorted = sortStr(str);
             
-            map.get(sorted).add(strs[i]);
-            
+            //if the sorted key is not contained start a new list
+            //and then add the non-sorted string
+            if(!map.containsKey(sorted)) map.put(sorted, new ArrayList());
+            map.get(sorted).add(str);
         }
         
-        // Iterator it = map.entrySet().iterator();
-        // while(it.hasNext()){
-        //     Map.Entry pair = (Map.Entry)it.next();
-        //     opt.add((List<String>)pair.getValue());
-        // }
+        //finnaly add all and return
         opt.addAll(map.values());
-        
         return opt;
     }
     
-    
+    //just sorts a string
     public String sortStr(String str){
-        char[] arr = str.toCharArray();
-        Arrays.sort(arr);
-        return new String(arr);
+        char[] chars = str.toCharArray();
+        Arrays.sort(chars);
+        return new String(chars);
     }
+
 }
