@@ -20,15 +20,19 @@ AWS								Pending
 Microsoft						Pending
 Facebook						Pending
 Oracle							Pending
+Twitter							Pending
 Telsa							Pending
 Spotify							Pending
- 
+Bloomberg						Pending
+Hulu							Pending
+Slack							Pending
 Nvidia							Pending
 Playstation						Pending
-DropBox							Pending
+DropBox							TESTING #FFD700
+Reddit							Pending
 Cisco							IN-VIEW #FFA500
 IBM								WAITING #C947F5
-MongoDB							Pending
+MongoDB							IN-VIEW #FFA500
 Duolingo						Pending
 Qualcomm						Pending
 Master Card						Pending
@@ -38,30 +42,31 @@ MagView							WAITING #C947F5
 Repl.it							Pending
 Celo							Pending
 Shopify							Pending
-Coakroach Labs					Pending #FF0000
+Coakroach Labs					DECLINE #FF0000
 Etsy							Pending
 Yext							Pending 
-CoinBase						Pending #FF0000
+CoinBase						DECLINE #FF0000
 Bubble							Pending
 CareerUp						Pending
 Paetron							Pending
 Sage Corps						DECLINE #ADD8E6 -> #FF0000 (I Declined)
 Stripe							WAITING #FF0000 
 SquareSpace						TESTING #FFD700
-Uber							Pending
+Uber							DECLINE #FF0000
 Collins Aerospace				Pending
 Rubrik 							Pending
-Slack							Pending
 Indeed							Pending
 Informatica						Pending
 Sezzle							Pending
 Target							WAITING #C947F5
 MathWorks						TESTING #FFD700
 Better							Pending
-Roblox							Pending
+Roblox							TESTING #FFD700
 PagerDuty						Pending
 Kebs							Pending
 HelBiz							Pending
+RedHat							Pending
+Oscar Health					Pending
 
 Verizon						(Apply in Late October/ Early Novemeber)
 NIST						(Apply In January)

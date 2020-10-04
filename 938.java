@@ -1,21 +1,18 @@
 class Solution {
-    int range_sum = 0;
-
+    private int add = 0;
+    
     public int rangeSumBST(TreeNode root, int L, int R) {
-        recursive(root, L, R);
-        return range_sum;
-    }
-
-    public void recursive(TreeNode root, int L, int R) {
-        if (root != null) {
-            if (root.val >= L && root.val <= R)
-                range_sum += root.val;
-            if (root.val > L)
-                recursive(root.left, L, R);
-            if (root.val < R)
-                recursive(root.right, L, R);
-
-        }
-
+        //go back in stack if null
+        if(root == null) return 0;
+        
+        //if in range add to value
+        if(root.val >= L && root.val <= R) add+=root.val;
+        
+        //Recursively go through left and right nodes
+        rangeSumBST(root.left,L,R);
+        rangeSumBST(root.right,L,R);
+        
+        //finnaly return the sum
+        return add;
     }
 }

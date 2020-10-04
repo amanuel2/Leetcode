@@ -1,29 +1,58 @@
 class Solution {
-    // low=1,high=0
-    // ["dog","racecar","car"]
     public String longestCommonPrefix(String[] strs) {
-        if (strs == null || strs.length == 0)
-            return "";
-        int minLen = Integer.MAX_VALUE;
-        for (String str : strs)
-            minLen = Math.min(minLen, str.length());
-        int low = 1;
-        int high = minLen;
-        while (low <= high) {
-            int middle = (low + high) / 2;
-            if (isCommonPrefix(strs, middle))
-                low = middle + 1;
-            else
-                high = middle - 1;
+        //Edge cases Leetcode tests
+        if(strs == null) return "";
+        if(strs.length == 0) return "";
+        if(strs.length == 1) return strs[0];
+        
+        //Here finds the minimum subtring 
+        int min_idx = findMin(strs);
+        String main = strs[min_idx];
+        
+        //Amount of common characters
+        int common = 0;
+        boolean found = true;
+        
+        //Loops through minimum substring
+        for(int i=0; i<main.length(); i++){
+            
+            //Loops through each string EXCEPT minimum(preserve time for non needed calculation)
+            for(int j=0; j<strs.length; j++){
+                if(j==min_idx) continue;
+                
+                //If at one point it doesnt equate then call it off!
+                if(strs[j].charAt(common) != main.charAt(common)) found=false; 
+            }
+            
+            //if it didnt equate break out of loop your done!
+            if(!found) break;
+            
+            //else you have more common characters!
+            common++;
         }
-        return strs[0].substring(0, (low + high) / 2);
+        
+        
+        
+        return main.substring(0,common);
     }
-
-    private boolean isCommonPrefix(String[] strs, int len) {
-        String str1 = strs[0].substring(0, len);
-        for (int i = 1; i < strs.length; i++)
-            if (!strs[i].startsWith(str1))
-                return false;
-        return true;
+    
+    //Finds minimum length substring
+    //So in ["dogs","racecar","car"]
+    // returns the index of "car" since its smallest
+    
+    public int findMin(String[] strs){
+        int min = 9999999; //could put Integer.max_val
+        int index = 0;
+        
+        for(int i=0; i<strs.length; i++){
+            String curr = strs[i];
+            
+            if(curr.length() < min){
+                min = curr.length();
+                index = i;
+            }
+        }
+        
+        return index;
     }
 }
